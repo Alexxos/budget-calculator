@@ -136,11 +136,9 @@ Navbar
   width: 85%;
   max-width: 35rem;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
+ 
 }
 .nav-title {
-  text-transform: capitalize;
   color: var(--mainWhite);
   margin-bottom: 0;
   letter-spacing: 2px;
